@@ -1,1 +1,56 @@
-/*# sourceMappingURL=index.css.map */
+body {
+  margin: 0;
+  background-repeat: no-repeat;
+  max-width: 100vh;
+}
+
+.page-1 {
+  display: inline-block;
+}
+
+.container-1 {
+  display: inline-block;
+  margin-left: 50vh;
+  margin-top: 27vh;
+  text-align: center;
+  width: 70%;
+}
+.container-1 .text1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 26px;
+  letter-spacing: 4.8px;
+  text-transform: uppercase;
+  color: white;
+  display: block;
+}
+.container-1 .text2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 6.82px;
+  color: white;
+  display: block;
+}
+
+.search-bar {
+  display: block;
+  margin-left: 59vh;
+  margin-top: 5vh;
+}
+.search-bar .bar {
+  width: 653px;
+  height: 63px;
+  font-family: "Josefin Sans", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 26px;
+  letter-spacing: 2.8px;
+  color: #999999;
+  text-align: center;
+}/*# sourceMappingURL=index.css.map */
